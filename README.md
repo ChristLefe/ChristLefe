@@ -3,7 +3,6 @@ Ma page
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- En-tete de la page -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -13,10 +12,6 @@ Ma page
 </head>
 <body>
 
-<!-- Corps de la page -->
-
-<!-- Slogan -->
-<h1> Croyez en moi </h1>
 
     <header><nav class="menu">
             <ul>
@@ -44,9 +39,11 @@ Ma page
               </section>
         
     <section id="NWS">
-                <h1>De la Normandie Web School</h1>
+                <h1>De la Normandie Web School 2</h1>
                 <p>Du contenu sur un thème pour ce titre</p>
               </section>
-        
+    
+    
+
 </body>
 </html>
