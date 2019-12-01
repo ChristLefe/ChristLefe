@@ -13,36 +13,6 @@ Ma page
 <body>
 
 
-    <header><nav class="menu">
-            <ul>
-              <li><a href="#Moi">De Moi</a></li>
-              <li><a href="#Photographie">De la Photographie</a></li>
-              <li><a href="#Deliveroo">De Deliveroo</a></li>
-              <li><a href="#NWS">De la Normandie Web School</a></li>
-            </ul>
-          </nav>
-    </header>
-    
-    <section id="Moi">
-                <h1>De Moi</h1>
-                <p>Du contenu sur un thème pour ce titre</p>
-              </section>
-        
-    <section id="Photographie">
-                <h1>De la Photographie</h1>
-                <p>Du contenu sur un thème pour ce titre</p>
-              </section>
-        
-    <section id="Deliveroo">
-                <h1>De Deliveroo</h1>
-                <p>Du contenu sur un thème pour ce titre</p>
-              </section>
-        
-    <section id="NWS">
-                <h1>De la Normandie Web School 2</h1>
-                <p>Du contenu sur un thème pour ce titre</p>
-              </section>
-    
     
 
 </body>
